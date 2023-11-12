@@ -54,9 +54,9 @@ tokoh publik lainnya.
 
 ### Anggota kelompok
 
-1. Hendra
-2. Fathurrahman 
-3. Dani
-4. Yogi
-5. Fitrah
-6. Harrison
+1. Hendra (VGG16 & VGG19)
+2. Fathurrahman (VGG & Other Riset etc. CNN)
+3. Dani (Googlenet)
+4. Yogi (Googlenet)
+5. Fitrah (Resnet)
+6. Harrison (Resnet)
